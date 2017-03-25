@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glsl/lambert.frag.glsl</file>
+        <file>glsl/lambert.vert.glsl</file>
+        <file>glsl/flat.frag.glsl</file>
+        <file>glsl/flat.vert.glsl</file>
+        <file>glsl/new.frag.glsl</file>
+        <file>glsl/new.vert.glsl</file>
+        <file>glsl/shadow.frag.glsl</file>
+        <file>glsl/shadow.vert.glsl</file>
+        <file>glsl/skybox.frag.glsl</file>
+        <file>glsl/skybox.vert.glsl</file>
+        <file>glsl/particle.frag.glsl</file>
+        <file>glsl/particle.vert.glsl</file>
+        <file>glsl/particle.geom.glsl</file>
+    </qresource>
+</RCC>
